@@ -276,7 +276,7 @@ opacity: 0px;
 
 } */
 
-.box{
+.ox{
     width: 500px;
     height: 1000px;
     /* margin: 0 auto; */
@@ -413,19 +413,19 @@ object-fit: cover;
 }
 
 
-.text {
+.ext {
     margin-left: 80px;
     margin-top: 120px;
 }
 
 
-.text h1{
+.ext h1{
     font-size: 35px;
     
 }
 
 
-.text button{
+.ext button{
     position: absolute;
     width: 96px;
     height: 36px;
@@ -442,7 +442,7 @@ object-fit: cover;
 
 
 
-.boots{
+.AKZ{
     width: 284px;
     height: 298px;
     border: 2px solid rgb(200, 210, 219) ;
