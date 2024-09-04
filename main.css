@@ -1,0 +1,57 @@
+    body{
+    margin: 0px;
+    padding: 0px;
+
+    }
+    .wrapper{
+        width: 1440px;
+
+    }
+    .content{
+        display: flex;
+        gap: 25px;
+    }
+    .content h1{
+    justify-content:space-between;
+    width: 162px;
+    height: 39px;
+    display:flex;
+    border-radius: 50px;
+    color: black;
+    border-radius: 100px;
+    background: rgb(235, 235, 235); 
+    margin-top: 120px; 
+     
+    }
+    .box p {
+        width: 78px;
+    }
+    .h11{
+    width: 200px;
+    }
+    .contianer{
+    border: solid rgb(170, 170, 167);
+    height: 45px;
+    width: 488px;
+    color: rgb(191, 191, 190);
+    border-radius: 25px;
+    text-align: center;
+   
+    }
+    .cart-content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+    .cart img{
+    width: 150px;
+    height: 200px;
+    object-fit: contain;
+    padding: 12px 40px;
+    border:  solid rgb(170, 170, 167);
+    border-radius: 25px;
+    margin-left: 40px;
+    border:  solid black;
+    display: flex;
+    }
