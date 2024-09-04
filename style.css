@@ -297,10 +297,10 @@ opacity: 0px;
 } */
 
 .ox{
-    width: 500px;
+    width: 1440px;
     height: 1000px;
-    /* margin: 0 auto; */
-    margin-left: 600px;
+    margin: 0 auto;
+    /* margin-left: 600px; */
 }
 
 
@@ -515,6 +515,7 @@ font-weight: 900;
 
 .foo{
     display: flex;
+    gap: -40px;
     
    
 }
