@@ -498,3 +498,142 @@ font-weight: 900;
     
    
 }
+
+
+.header-main {
+    margin: 0 auto;
+    text-align: center;
+}
+.header-main h5 {
+    width: 272px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53.72px;
+}
+
+.header-main img {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.header-main h2 {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 40.47px;
+}
+
+
+.nikes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+}
+
+.nikes img {
+width:387px;
+Height:534px;
+border-radius: 20px;
+object-fit: cover;
+}
+
+.icon1 img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -520px;
+    margin-left: 140px;
+}
+
+.nike-1-cont {
+    width: 125px;
+    height: 46px;
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 22.99px;
+    line-height: 22.99px;
+}
+
+
+.nike-2-cont {
+    /* width: 125px; */
+    /* height: 46px; */
+    position: absolute;
+    margin-top: -530px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 22.99px;
+    line-height: 22.99px;
+}
+
+
+
+.nike-3-cont {
+    width: 125px;
+    height: 46px;
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 22.99px;
+    line-height: 22.99px;
+}
+
+.big-nike {
+    position: relative;
+    margin-top: 100px;
+    text-align: center; 
+    width: 1203px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.big-nike img {
+    position: absolute;
+    top: 0;
+    width: 1203px;
+    height: 500px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.big-nike img {
+    position: relative;
+}
+
+.big-nike-cont1 h1{
+    position: absolute;
+    margin-top: -180px;
+    left:100px;
+    color: rgb(250, 245, 245);
+    font-weight: 100;
+    font-size: 60px;
+    /* line-height: 50px; */
+}
+
+.big-nike-cont2 h3 {
+    position: absolute;
+    color: #fff;
+    margin-top: -460px;
+    left: 100px;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.krug img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 480px;
+}
